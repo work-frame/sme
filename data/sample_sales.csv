@@ -1,0 +1,7 @@
+date,product,sales,region,customer_satisfaction
+2024-01-01,Product A,1500,North,4.2
+2024-01-01,Product B,1200,South,3.8
+2024-01-02,Product A,1800,North,4.5
+2024-01-02,Product B,900,South,3.5
+2024-01-03,Product A,2100,North,4.1
+2024-01-03,Product B,1300,South,4.0
